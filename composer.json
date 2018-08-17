@@ -1,0 +1,26 @@
+{
+    "name": "polderknowledge/country-dropdown",
+    "description": "Country select box for Zend Framework 3",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PolderKnowledge\\CountryDropdown\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">= 7.0",
+        "league/iso3166": "^2.1",
+        "zendframework/zend-form": "^2.12",
+        "lstrojny/functional-php": "^1.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erik van Velzen",
+            "email": "erik@polderknowledge.nl"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
