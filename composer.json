@@ -1,5 +1,5 @@
 {
-    "name": "polderknowledge/country-dropdown",
+    "name": "polderknowledge/zend-form-country-select",
     "description": "Country select box for Zend Framework 3",
     "type": "library",
     "autoload": {
